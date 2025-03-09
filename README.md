@@ -66,9 +66,9 @@ Create a resource group named "RG-osTicket" in the "(US) West 3" region, then se
 Use the same resource group and region you created earlier (RG-osTicket and US West 3). Name the virtual machine **vm-osticket**, select the imaging **Windows 10 Pro, version 22H2 - ×64 Gen2**, and set the size to **Standard_D45_v3 - 4 vcpus, 16 GiB memory**. Create a username and password you can easily remember (for the simplicity of the lab) and be sure to check the **licensing box** at the bottom. Review your information and proceed to create your virtual machine.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/4081f85f-969f-44ba-b922-173a14e9ac78">
+<img width="800" alt="isolated" src="https://i.imgur.com/3JcHqWD.png">
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/d2ce647d-88fe-440a-9a34-387d4cc3b56d">
+<img width="800" alt="isolated" src="https://i.imgur.com/yGVLnwX.png">
 
 </details>
 
@@ -87,7 +87,7 @@ Use the username and password you created earlier to connect via RDP.
 *For help connecting Virtual Machines to Remote Desktop, refer to Step 5 in [my other lab](https://github.com/vincentchachere/virtual-machine)*
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ccaac932-e865-4110-a96e-96d18b5b3cd0">
+<img width="800" alt="isolated" src="https://i.imgur.com/pz8yYq7.png">
 
 <br>
 <br>
@@ -98,7 +98,7 @@ Use the username and password you created earlier to connect via RDP.
 Uncheck all the boxes and click accept.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/f59877e2-da56-4767-8cef-54cb4d0fdbe9">
+<img width="800" alt="isolated" src="https://i.imgur.com/P6WPTFL.png">
 
 </details>
 
@@ -115,7 +115,7 @@ Uncheck all the boxes and click accept.
 To install and enable IIS, right-click **Start** at the bottom-left corner, select **Run**, press **Enter**,**control panel**, and click **OK**.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/8e9cc9b1-c20b-409d-867e-22b51ebc421b">
+<img width="800" alt="isolated" src="https://i.imgur.com/JrVsKtA.png">
 
 <br>
 <br>
@@ -126,7 +126,7 @@ To install and enable IIS, right-click **Start** at the bottom-left corner, sele
 Select **Programs**
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3c279675-4075-4b70-9702-f319b73c7131">
+<img width="800" alt="isolated" src="https://i.imgur.com/QN9SdiZ.png">
 
 <br>
 <br>
@@ -137,7 +137,7 @@ Select **Programs**
 Select **Turn Windows Features On or Off**
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/3ef2747d-3665-48a8-9796-a482fd275039">
+<img width="800" alt="isolated" src="https://i.imgur.com/xkeyHoB.png">
 
 <br>
 <br>
@@ -148,7 +148,7 @@ Select **Turn Windows Features On or Off**
 Enable and Expand the **Internet Information Services (IIS)** and **World Wide Web Services** folders then check **all the Boxes** within this feature's folder.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/ece03bc2-ec8a-4392-b658-b98b771be30b">
+<img width="800" alt="isolated" src="https://i.imgur.com/9zHuW47.png">
 
 <br>
 <br>
@@ -161,7 +161,7 @@ Enable and Expand the **Internet Information Services (IIS)** and **World Wide W
 Expand the **Application Development Features** folder and enable **CGI**. Collapse the **Application Development Features** folder and go back inside the **World Wide Web Service** folder.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/7e2097ad-9abe-4db1-8f70-80c60d46548f">
+<img width="800" alt="isolated" src="https://i.imgur.com/PRPgqIB.png">
 
 <br>
 <br>
@@ -174,7 +174,7 @@ Expand the **Application Development Features** folder and enable **CGI**. Colla
 Enable and expand the **Common HTTP Features** folder and check **All Boxes** within this feature's folder, then click **OK** when done.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/914c53a4-0fc9-45a5-9c9c-663e210b4828">
+<img width="800" alt="isolated" src="https://i.imgur.com/rpeNCrS.png">
 
 <br>
 <br>
@@ -185,7 +185,7 @@ Enable and expand the **Common HTTP Features** folder and check **All Boxes** wi
 When it's done enabling you can close it out.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/user-attachments/assets/c42e5f4f-43d5-4ef7-812a-d6cced5d7741"><br>
+<img width="800" alt="isolated" src="https://i.imgur.com/8NCp0Ph.png"><br>
 
 <br>
 <br>
