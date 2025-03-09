@@ -48,7 +48,8 @@ Create a resource group named "RG-osTicket" in the "(US) West 3" region, then se
 *Double-check spelling when creating resources, virtual machines, regions, and similar inputs. Errors may require deletion and re-creation. For help with creating Virtual Machines and Resource Groups, refer to [my other lab](https://github.com/vincentchachere/virtual-machine).*
 
 <p align="center">
-<img width="800" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/4829d10a-d483-4c28-93a1-64034a6e0cf3">
+<img width="800" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://i.imgur.com/aa7iFcA.png">
+
 
 </details>
 
