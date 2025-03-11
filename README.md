@@ -45,7 +45,7 @@ In this lab, we set up the osTicket helpdesk ticketing system by completing the 
 
 Create a resource group named "RG-osTicket" in the "(US) West 3" region, then select **Review + Create** and click **Create**.
 
-*Double-check spelling when creating resources, virtual machines, regions, and similar inputs. Errors may require deletion and re-creation. For help with creating Virtual Machines and Resource Groups, refer to [my other lab](https://github.com/vincentchachere/virtual-machine).*
+*Double-check spelling when creating resources, virtual machines, regions, and similar inputs. Errors may require deletion and re-creation. For help with creating Virtual Machines and Resource Groups, refer to [my other lab](https://github.com/DavidClarkeIT/Virtual-Machine).*
 
 <p align="center">
 <img width="800" alt="E2C30B0C-FA81-4329-8F23-DBB018C41018" src="https://i.imgur.com/aa7iFcA.png">
@@ -84,7 +84,7 @@ Use the same resource group and region you created earlier (RG-osTicket and US W
 
 Use the username and password you created earlier to connect via RDP.
 
-*For help connecting Virtual Machines to Remote Desktop, refer to Step 5 in [my other lab](https://github.com/vincentchachere/virtual-machine)*
+*For help connecting Virtual Machines to Remote Desktop, refer to Step 5 in [my other lab](https://github.com/DavidClarkeIT/Virtual-Machine)*
 
 <p align="center">
 <img width="800" alt="isolated" src="https://i.imgur.com/pz8yYq7.png">
@@ -373,7 +373,8 @@ Go back to **This PC** > **Windows (C:)** > **PHP**
 Download and open **VC_redist.x86.exe** then check the **I agree to the license terms and conditions** box and click **Install**.
 
 <p align="center">
-<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/170a61c1-fe3c-419f-8059-269bf6a5455c"><br>
+<img width="800" alt="isolated" src="![image](https://github.com/user-attachments/assets/1ea62839-adb8-40cb-9afa-bd30252c5930)
+"><br>
 
 <br>
 <br>
