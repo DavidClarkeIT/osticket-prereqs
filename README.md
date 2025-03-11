@@ -373,7 +373,7 @@ Go back to **This PC** > **Windows (C:)** > **PHP**
 Download and open **VC_redist.x86.exe** then check the **I agree to the license terms and conditions** box and click **Install**.
 
 <p align="center">
-<img width="800" alt="isolated" src="![image](https://github.com/user-attachments/assets/1ea62839-adb8-40cb-9afa-bd30252c5930)
+<img width="800" alt="isolated" src="https://github.com/vincentchachere/osticket-prereqs/assets/161680745/170a61c1-fe3c-419f-8059-269bf6a5455c
 "><br>
 
 <br>
